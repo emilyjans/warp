@@ -74,10 +74,11 @@ No higher purpose may be found than this. Nor any higher love.
 
 ## Future Ideas
 
-- Waffle Party achievement (5 incidents without reopening)
+- Waffle Party achievement (5 incidents in n timeframe)
+- Defiant Jazz opens up Spotify playlist
+- Add more overall verve, wiles and wit
 - Different wellness for SEV1 vs SEV3
 - Team wellness for multiple responders
-- Wellness analytics dashboard
 
 ---
 
