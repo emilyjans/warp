@@ -4,6 +4,8 @@ A Severance-inspired Slack bot that sends mandatory wellness interventions to in
 
 ## What It Does
 
+[📺 Watch WARP Bot in Action (2 min demo)](https://vimeo.com/1120341879)
+
 When you resolve an incident as Lead, The Board sends you this:
 
 ```
